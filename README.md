@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ 
 
 <h3 align="center">
   Welcome to Ahmed Elkazaz's profile!
@@ -12,5 +12,20 @@
 
 - 🏢 I'm a Student at Damanhour University 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart, flutter, c++, and SQL 
+- 💬 Ask me about my experience with Dart, flutter, c++, and SQL
+
+ 
+
+
+[My LinkedIn ](https://www.linkedin.com/in/ahmed-mohamed-elkazaz-426b2626a/)
+
+
+ 
+
+
+
+
+
+ 
+
   
